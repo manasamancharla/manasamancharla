@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manas Amancharla</h1>
 <h3 align="center">I like pressing buttons and learning how to code.</h3>
-<img align="right" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FCrWHpzxIZYEAAAAC%2Fcat-typing-gif.gif&tbnid=EmmKsoiyyYrY4M&vet=12ahUKEwiSzcbnv9H-AhVm3XMBHfAKA8AQMygXegUIARD4AQ..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fcat-typing-gif-gif-25597129&docid=xWQAP5GpGf5MDM&w=498&h=280&q=cat%20pressing%20keyboard%20meme&ved=2ahUKEwiSzcbnv9H-AhVm3XMBHfAKA8AQMygXegUIARD4AQ" alt="img">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manasamancharla&label=Profile%20views&color=0e75b6&style=flat" alt="manasamancharla" /> </p>
 
 - 🌱 I’m currently learning **Expressjs**
 
