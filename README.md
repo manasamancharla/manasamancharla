@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Amancharla</h1>
-<h3 align="center">I like pressing buttons and learning how to code.</h3>
+<h3 align="center">I like pressing buttons and building cool stuff.</h3>
 
 
 - 🌱 I’m currently learning **Expressjs**
