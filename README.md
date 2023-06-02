@@ -2,7 +2,7 @@
 <h3 align="center">I like pressing buttons and building cool stuff.</h3>
 
 
-- 🌱 I’m currently learning **Expressjs**
+- 🌱 I’m currently learning **Nextjs**
 
 
 <h3 align="left">Languages and Tools:</h3>
